@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CleanOS" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/cleanos_bg</item>
+        <item name="android:statusBarColor">@color/cleanos_bg</item>
+        <item name="android:navigationBarColor">@color/cleanos_bg</item>
+    </style>
+</resources>
